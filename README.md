@@ -21,14 +21,14 @@
    <main>
         <section>
             <h2>Minha Imagem</h2>
-            <img src="imagens/exemplo.jpg" alt="Descrição da imagem" width="300">
+            <img src="imagens/exemplo.jpg" alt="Praia Florianópolis" width="300">
         </section>
 
   <section>
   <h2>Artigos</h2>
             <article>
                 <h3>Artigo 1</h3>
-                <p>Escreva aqui um texto criativo sobre o tema que você escolheu.</p>
+                <p>O Brasil é feito de cenários únicos: o pôr do sol no Rio de Janeiro, Salvador vibra cultura no Pelourinho, Ouro Preto guarda a história em suas ladeiras, Bonito revela águas cristalinas e Floranópolis une prais, culturas e diversão. Um país onde cada destino é uma nova descoberta.</p>
             </article>
 
    <article>
