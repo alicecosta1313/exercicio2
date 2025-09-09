@@ -11,13 +11,13 @@
         <h1>Bem-vindos ao meu site!</h1>
         <nav>
             <ul>
-                <li><a href="#">Top 5 Cidades Mais Bonitas do Brasil Para Visitar</a></li>
-                <li><a href="#">As cinco cidades mais belas do Brasil para se visitar atualmente, agregando a cultura, socialização e diversão.</a></li>
+                <li><a href="#">Top 3 Cidades Mais Bonitas do Brasil Para Visitar</a></li>
+                <li><a href="#">As três cidades mais belas do Brasil para se visitar atualmente, agregando a cultura, socialização e diversão.</a></li>
                 <li><a href="#">e-mail: [e-mail de turismo]</a></li>
             </ul>
         </nav>
-    </header>
-
+  
+</header>  
    <main>
         <section>
             <h2>Minha Imagem</h2>
@@ -27,15 +27,20 @@
   <section>
   <h2>Artigos</h2>
             <article>
-                <h3>Artigo 1</h3>
-                <p>O Brasil é feito de cenários únicos: o pôr do sol no Rio de Janeiro, Salvador vibra cultura no Pelourinho, Ouro Preto guarda a história em suas ladeiras, Bonito revela águas cristalinas e Floranópolis une prais, culturas e diversão. Um país onde cada destino é uma nova descoberta.</p>
+                <h3>Florianópolis(SC)</h3>
+                <p>Conhecida como a "Ilha da Magia", Floripa reúne praias deslumbrantes, vida nortuna animada e forte presença da cultura açoriana. Ideal para quem busca diversão e convivência em cenários naturais.</p>
             </article>
 
    <article>
-                <h3>Artigo 2</h3>
-                <p>Escreva aqui outro texto criativo.</p>
+                <h3>Bonito(MS)</h3>
+                <p>Destino ideal para quem valoriza natureza exuberante aliada à observação social traquila e cultura ecplógica. Bonito atrai por seus rios cristalinos, grutas e cachoeiras, promovendo interações leves com outras pessoas e com o meio ambiente.</p>
             </article>
-        </section>
+<article>
+   <h3>Ouro Preto(MG)</h3>
+   <p>Cidade histórica que respira arte e memória. Com sua arquitetura colonial barroca, igrejas centenárias ornamentadas por Aleijadinho e uma experiêmcia fascinante para quem ama história, cultura e boa convivência.</p>
+</article>
+
+  </section>
 
    <section>
             <h2>Mídia</h2>
@@ -54,7 +59,7 @@
     </main>
 
    <footer>
-        <p>Feito por [Seu Nome] - [Data]</p>
+        <p>Feito por Alice Costa e Isabella Mascarenhas - 09/09/2025</p>
     </footer>
 
 </body>
