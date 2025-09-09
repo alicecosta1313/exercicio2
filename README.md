@@ -21,7 +21,7 @@
    <main>
         <section>
             <h2>Minha Imagem</h2>
-            <img src="imagens/exemplo.jpg" alt="Praia Florianópolis" width="300">
+            <img src="https://services.meteored.com/img/article/conheca-as-10-cidades-mais-bonitas-do-brasil-segundo-o-chatgpt-1727716706167_1280.jpg" alt="Salvador(BA)" width="300">
         </section>
 
   <section>
